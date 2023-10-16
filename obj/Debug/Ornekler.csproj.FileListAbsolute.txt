@@ -1,0 +1,8 @@
+C:\Users\Ahmet\Desktop\lazy_singloton\Ornekler\Ornekler\bin\Debug\Ornekler.exe.config
+C:\Users\Ahmet\Desktop\lazy_singloton\Ornekler\Ornekler\bin\Debug\Ornekler.exe
+C:\Users\Ahmet\Desktop\lazy_singloton\Ornekler\Ornekler\bin\Debug\Ornekler.pdb
+C:\Users\Ahmet\Desktop\lazy_singloton\Ornekler\Ornekler\obj\Debug\Ornekler.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\lazy_singloton\Ornekler\Ornekler\obj\Debug\Ornekler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmet\Desktop\lazy_singloton\Ornekler\Ornekler\obj\Debug\Ornekler.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\lazy_singloton\Ornekler\Ornekler\obj\Debug\Ornekler.exe
+C:\Users\Ahmet\Desktop\lazy_singloton\Ornekler\Ornekler\obj\Debug\Ornekler.pdb
